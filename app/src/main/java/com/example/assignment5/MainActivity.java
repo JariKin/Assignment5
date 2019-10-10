@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
                 else{
                     Toast.makeText(getApplicationContext(),"Check internet connection",Toast.LENGTH_SHORT).show();
                 }
-
             }
         });
     }
