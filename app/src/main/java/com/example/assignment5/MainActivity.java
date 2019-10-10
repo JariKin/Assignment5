@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<DataModel> dataModelArrayList;
     private ListAdapter listAdapter;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
